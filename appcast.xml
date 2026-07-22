@@ -1,8 +1,8 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>DeepFind Updates</title>
-        <description>En gÃ¼ncel DeepFind sÃ¼rÃ¼mleri</description>
+        <description>En güncel DeepFind sürümleri</description>
         <language>tr</language>
         
     <item><title>Version 0.2.6</title><pubDate>Sat, 04 Jul 2026 21:48:08 +0000</pubDate><enclosure url="https://github.com/myusufylk/DeepFind/releases/download/v0.2.6/DeepFind_Setup.exe" sparkle:version="0.2.6" sparkle:os="windows" length="238662686" type="application/octet-stream" sparkle:edSignature="HjWunv7ef4zw9ds4pPD+bZjAl+I+mpj0HhmAIptYCMw+85YSbnINgJPK0wf8jKGaZWsJxrKFbenqdsIf+I/FDg==" /></item><item><title>Version 2.7</title><pubDate>Sun, 05 Jul 2026 13:42:39 +0000</pubDate><enclosure url="https://github.com/myusufylk/DeepFind/releases/download/v2.7/DeepFind_Setup.exe" sparkle:version="2.7" sparkle:os="windows" length="238694620" type="application/octet-stream" sparkle:edSignature="M3EjMcjd2LOW0KW7QGEcPe270aiYhPMPEC9SmV6MmzYCoxJ/bdaAAxjMGSc9/b6Jd+M+4q2D17cF4y1++PyxBQ==" /></item><item><title>Version 2.7</title><pubDate>Sun, 05 Jul 2026 14:15:45 +0000</pubDate><enclosure url="https://github.com/myusufylk/DeepFind/releases/download/v2.7/DeepFind_Setup.exe" sparkle:version="2.7" sparkle:os="windows" length="239446685" type="application/octet-stream" sparkle:edSignature="Ox3SiGiTfZc4CVdzBHyexB8qa+4eWfEKhj4TdMSgBu/R1mEPqvi/TS3kmMMMlLe2+tarGD1I8itrJiNQJaqBBQ==" /></item><item><title>Version 2.8</title><pubDate>Wed, 22 Jul 2026 22:23:00 +0000</pubDate><enclosure url="https://github.com/myusufylk/DeepFind/releases/download/v2.8/DeepFind_Setup.exe" sparkle:version="2.8" sparkle:os="windows" length="237588802" type="application/octet-stream" sparkle:edSignature="pxdXG8tiZErtyp84NTXnIw7HYhmqg+YeB8YCAUtAmn9dhE92dgUV38jFZXpP9TzQayqIO1dJ8H1b9Vgj9li+AA==" /></item></channel>
